@@ -1,6 +1,8 @@
 "
 " MAIN CUSTOMIZATION FILE
 "
+set nocompatible
+
 
 " Enable loading filetype and indentation plugins
 filetype plugin on
