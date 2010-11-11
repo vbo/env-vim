@@ -33,6 +33,9 @@ set history=100
 " Enable incremental search
 set incsearch
 
+" Case insensetive search
+set ignorecase
+
 " Always show status line, even for one window
 set laststatus=2
 
