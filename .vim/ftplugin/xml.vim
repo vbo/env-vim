@@ -1,3 +1,3 @@
-set shiftwidth=1
+set shiftwidth=4
 set expandtab
 set textwidth=90
