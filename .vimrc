@@ -147,16 +147,6 @@ nnoremap <Esc>p  p'[v']=
 vnoremap < <gv
 vnoremap > >gv 
 
-" Generic highlight changes
-highlight Comment cterm=none ctermfg=Gray
-highlight IncSearch cterm=none ctermfg=Black ctermbg=DarkYellow
-highlight Search cterm=none ctermfg=Black ctermbg=DarkYellow
-highlight String cterm=none ctermfg=DarkGreen
-highlight treeDir cterm=none ctermfg=Cyan
-highlight treeUp cterm=none ctermfg=DarkYellow
-highlight treeCWD cterm=none ctermfg=DarkYellow
-highlight netrwDir cterm=none ctermfg=Cyan
-
 " Set up cscope options
 if has("cscope")
 	set csprg=cscope
