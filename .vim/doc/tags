@@ -44,11 +44,13 @@
 'Tlist_WinWidth'	taglist.txt	/*'Tlist_WinWidth'*
 'loaded_nerd_tree'	NERD_tree.txt	/*'loaded_nerd_tree'*
 :MatchDebug	matchit.txt	/*:MatchDebug*
+:MkVimball	pi_vimball.txt	/*:MkVimball*
 :NERDTree	NERD_tree.txt	/*:NERDTree*
 :NERDTreeClose	NERD_tree.txt	/*:NERDTreeClose*
 :NERDTreeFromBookmark	NERD_tree.txt	/*:NERDTreeFromBookmark*
 :NERDTreeMirror	NERD_tree.txt	/*:NERDTreeMirror*
 :NERDTreeToggle	NERD_tree.txt	/*:NERDTreeToggle*
+:RmVimball	pi_vimball.txt	/*:RmVimball*
 :Snippet	snippets_emu.txt	/*:Snippet*
 :TlistAddFiles	taglist.txt	/*:TlistAddFiles*
 :TlistAddFilesRecursive	taglist.txt	/*:TlistAddFilesRecursive*
@@ -66,6 +68,8 @@
 :TlistUndebug	taglist.txt	/*:TlistUndebug*
 :TlistUnlock	taglist.txt	/*:TlistUnlock*
 :TlistUpdate	taglist.txt	/*:TlistUpdate*
+:UseVimball	pi_vimball.txt	/*:UseVimball*
+:VimballList	pi_vimball.txt	/*:VimballList*
 CommandT	command-t.txt	/*CommandT*
 CommandTFlush	command-t.txt	/*CommandTFlush*
 CreateBundleSnippet	snippets_emu.txt	/*CreateBundleSnippet*
@@ -126,6 +130,7 @@ Tlist_Get_Tag_Prototype_By_Line()	taglist.txt	/*Tlist_Get_Tag_Prototype_By_Line(
 Tlist_Get_Tagname_By_Line()	taglist.txt	/*Tlist_Get_Tagname_By_Line()*
 Tlist_Set_App()	taglist.txt	/*Tlist_Set_App()*
 Tlist_Update_File_Tags()	taglist.txt	/*Tlist_Update_File_Tags()*
+Vimball-copyright	pi_vimball.txt	/*Vimball-copyright*
 [%	matchit.txt	/*[%*
 ]%	matchit.txt	/*]%*
 b:match_col	matchit.txt	/*b:match_col*
@@ -167,6 +172,8 @@ command-t-wildignore	command-t.txt	/*command-t-wildignore*
 command-t.txt	command-t.txt	/*command-t.txt*
 creating-snippets	snippets_emu.txt	/*creating-snippets*
 g%	matchit.txt	/*g%*
+g:vimball_home	pi_vimball.txt	/*g:vimball_home*
+g:vimball_mkdir	pi_vimball.txt	/*g:vimball_mkdir*
 matchit	matchit.txt	/*matchit*
 matchit-%	matchit.txt	/*matchit-%*
 matchit-\1	matchit.txt	/*matchit-\\1*
@@ -196,6 +203,7 @@ named-tags	snippets_emu.txt	/*named-tags*
 o_[%	matchit.txt	/*o_[%*
 o_]%	matchit.txt	/*o_]%*
 o_g%	matchit.txt	/*o_g%*
+pi_vimball.txt	pi_vimball.txt	/*pi_vimball.txt*
 project	project.txt	/*project*
 project-adding-mappings	project.txt	/*project-adding-mappings*
 project-example	project.txt	/*project-example*
@@ -250,3 +258,10 @@ v_[%	matchit.txt	/*v_[%*
 v_]%	matchit.txt	/*v_]%*
 v_a%	matchit.txt	/*v_a%*
 v_g%	matchit.txt	/*v_g%*
+vba	pi_vimball.txt	/*vba*
+vimball	pi_vimball.txt	/*vimball*
+vimball-contents	pi_vimball.txt	/*vimball-contents*
+vimball-extract	pi_vimball.txt	/*vimball-extract*
+vimball-history	pi_vimball.txt	/*vimball-history*
+vimball-intro	pi_vimball.txt	/*vimball-intro*
+vimball-manual	pi_vimball.txt	/*vimball-manual*
