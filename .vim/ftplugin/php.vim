@@ -105,3 +105,6 @@ set tags=./tags,tags
 " set list
 
 " vim: set fdm=marker:
+"
+
+nmap <silent> <F3> :!./tests/run<CR>
