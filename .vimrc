@@ -129,6 +129,8 @@ map ,w :x<CR>
 " switch to upper/lower window quickly
 map <C-J> <C-W>j
 map <C-K> <C-W>k
+map <C-H> <C-W>h
+map <C-L> <C-W>l
 " use CTRL-F for omni completion
 imap <C-F> 
 " map ,f to display all lines with keyword under cursor and ask which one to
