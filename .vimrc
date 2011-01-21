@@ -130,8 +130,6 @@ map <C-J> <C-W>j
 map <C-K> <C-W>k
 " use CTRL-F for omni completion
 imap <C-F> 
-" map CTRL-L to piece-wise copying of the line above the current one
-imap <C-L> a<esc>kywgi<esc>Pla<bs>
 " map ,f to display all lines with keyword under cursor and ask which one to
 " jump to
 nmap ,f [I:let nr = input("Which one: ")<Bar>exe "normal " . nr ."[\t"<CR>
