@@ -5,6 +5,7 @@ set nocompatible
 
 
 " Enable loading filetype and indentation plugins
+filetype on
 filetype plugin on
 filetype indent on
 
